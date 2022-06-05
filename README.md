@@ -1,4 +1,4 @@
-# Regex
+## Regular Expression
 The best ressource to learn and practice Regular Expressions :
 - Web site 1 : https://regexlearn.com/learn 
 - Web site 2 : https://regexr.com/
