@@ -1,10 +1,10 @@
 ## Regular Expression Resources
 
 #### Learning and practicing Regular Expressions (Regex) can be done effectively using the following resources:
-- Regex Learn - Regex Interactive Course: Visit regexlearn.com/learn to access an interactive course that teaches the basics of Regex.
-- RegExr: Build, Test, and Debug Regex: Explore regexr.com to learn, build, and test Regex patterns.
-- Regex101: Build, Test, and Debug Regex: Discover regex101.com for building, testing, and debugging Regex patterns.
-- RegEx Tester and Debugger Online: Access regextester.com to test and debug Regex patterns. 
+- <b> Regex Learn </b> - Regex Interactive Course: Visit regexlearn.com/learn to access an interactive course that teaches the basics of Regex.
+- <b> RegExr </b>: Build, Test, and Debug Regex: Explore regexr.com to learn, build, and test Regex patterns.
+- <b> Regex101 </b>: Build, Test, and Debug Regex: Discover regex101.com for building, testing, and debugging Regex patterns.
+- <b> RegEx Tester </b> and Debugger Online: Access regextester.com to test and debug Regex patterns. 
 
 
 
